@@ -1,6 +1,6 @@
 # Super Hero Api Maiquel
 
-Projeto realizado com React + typeSript + Vite + Tailwind CSS
+Projeto realizado com React + typeScript + Vite + Tailwind CSS
 
 Utilizando Api Super Hero, fazendo as chamadas com Axios, projeto completo e responsivo.
 
